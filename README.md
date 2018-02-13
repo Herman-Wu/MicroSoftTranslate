@@ -1,3 +1,6 @@
+This is a testing for Microsoft Tranlator Speech API on Android. 
+
+
 #### 接入微软的在线翻译　Microsoft Azure，智能语音转文字。
 [先注册官网](https://portal.azure.com)
 
@@ -196,6 +199,8 @@
 #### 发送音频`audioData`到`websocket`,在我们`websocket`消息回调里就能看到回调
 #### 这是我的语音翻译的回调。一旦你对着麦克风说话，就能获得回调
     {"type":"final","id":"1","recognition":"你好吗? 你在干.","translation":"How are you? What are you doing?"}
+	
+	
 
  
  
