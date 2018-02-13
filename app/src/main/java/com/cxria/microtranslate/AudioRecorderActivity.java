@@ -1,5 +1,6 @@
 package com.cxria.microtranslate;
 
+//Test ..
 import android.content.pm.PackageManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

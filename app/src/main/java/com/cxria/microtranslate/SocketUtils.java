@@ -1,6 +1,6 @@
 package com.cxria.microtranslate;
 
-
+//Test 
 import android.util.Log;
 
 import com.google.gson.Gson;
